@@ -3,6 +3,12 @@
 This is a Chrome extension that merges text files and removes duplicates. It is useful for merging multiple text files
 into one and removing duplicate lines. The extension is easy to use and works instantly. You can upload multiple `.txt` files at once, and the extension will merge them and remove duplicate lines automatically. You can then download the merged text file or copy it to your clipboard.
 
+## Online Tool
+
+You can use the online version of this tool by visiting the following link:
+
+[Duplicate Rows Removal Tool](https://emrahakcal.github.io/duplicate-rows-removal-tool/)
+
 ### Features
 
 - Merge multiple text files into one.
